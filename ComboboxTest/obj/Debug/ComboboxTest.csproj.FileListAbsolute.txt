@@ -1,0 +1,9 @@
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\bin\Debug\ComboboxTest.exe.config
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.csprojResolveAssemblyReference.cache
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.Form1.resources
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.Properties.Resources.resources
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.csproj.GenerateResource.Cache
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\bin\Debug\ComboboxTest.exe
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\bin\Debug\ComboboxTest.pdb
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.exe
+H:\VS12WebSetupFiles\ComboboxTest\ComboboxTest\obj\Debug\ComboboxTest.pdb
