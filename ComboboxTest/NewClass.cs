@@ -9,6 +9,6 @@ namespace ComboboxTest
     class NewClass
     {
 
-
+        public int Name = 3;
     }
 }
